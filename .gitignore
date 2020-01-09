@@ -1,0 +1,31 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml
+src/
+src/main/java/che/oleh/esaccount/EsAccountApplication.java
+src/main/java/che/oleh/esaccount/entity/
+src/main/java/che/oleh/esaccount/repo/
+src/main/resources/
+src/test/
